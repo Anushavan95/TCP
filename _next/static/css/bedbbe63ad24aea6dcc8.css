@@ -35,7 +35,7 @@ header .header-section .small-price:after {
   color: #3cc8b4;
 }
 header .header-section .small-price:before {
-  content: url(./_next/static/media/arrow.c2b085974ad3402bb5ba69f0ec09fc5b.svg);
+  content: url(https://anushavan95.github.io/TCP/_next/static/media/arrow.c2b085974ad3402bb5ba69f0ec09fc5b.svg);
   margin-right: 5px;
 }
 header .header-section .header-navs-menu {
